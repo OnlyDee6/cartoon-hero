@@ -1,6 +1,8 @@
 body{
 	margin: 0;
 	font-family: 'Helvetica', 'Arial', sans-serif;
+	font-size: 20px;
+	line-height: 30px;
 
 }
 
@@ -25,3 +27,32 @@ header img{
     width: 300px;
     border: 10px solid #9D0D04;
 }
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20 px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 35px;
+	color: #9D0D04;
+}
+
+a{
+	color: #9D0D04;
+}
+
+a:hover{
+	color: white;	
+	background-color: #483a94 ;
+}
+
+
+
+
+
