@@ -5,6 +5,8 @@ tebody{
 header{
 	background-color: orange;
 	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 header h1{
@@ -14,5 +16,5 @@ header h1{
 header img{
     border-radius: 170px;
     width: 300px;
-    border: 10px solid #9D0D04;
+    border: 20px solid #9D0D04;
 }
