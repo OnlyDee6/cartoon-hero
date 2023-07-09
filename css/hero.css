@@ -1,5 +1,7 @@
-tebody{
+body{
 	margin: 0;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+
 }
 
 header{
@@ -9,9 +11,12 @@ header{
 	padding-bottom: 50px;
 }
 
+h1 h2{
+	font-family: 'Chela One', cursive;
+}
+
 header h1{
 	color: #9D0D04;
-	font-family: 'Helvetica', 'Arial', sans-serif;
 }
 
 header img{
