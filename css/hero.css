@@ -12,6 +12,7 @@ header h1{
 }
 
 header img{
-    border-radius: 300px;
-    width: 600px;
+    border-radius: 170px;
+    width: 300px;
+    border: 10px solid #9D0D04;
 }
